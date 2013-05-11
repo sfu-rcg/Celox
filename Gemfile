@@ -23,8 +23,6 @@ end
 #### My Gems
 gem 'pg'
 
-gem 'unicorn'
-
 # Detects browser locale, and serves appropriate I18n translation
 gem 'locale_detector', '>= 0.3.1'
 

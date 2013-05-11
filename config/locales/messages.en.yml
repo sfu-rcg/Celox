@@ -31,9 +31,9 @@ en:
       info1: ""
       not_found: "Oops; I couldn't find your message! Check the link, and try again, but no promise! ;)"
       new_message: "New Message"
-    
+
     show_by_stub:
-      heading: "Here is your message:"
+      heading: "Below is your message. You will only get to see it once, so please remember it:"
       info1: ""
       new_message: "New Message"
 
